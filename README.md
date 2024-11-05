@@ -85,6 +85,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  -Impplemmented sign out
  -Update Profile 
  =Movie Description
+ -BugFix:sign up user displayName and profile picture update
+-BugFix:if the user is not logged in redirect / browse to login page and vice-versa
+ -Unsubscribed to the onAuthStateChanged callBack
+ -Add hardcoded values to constant file.
+ -Register TMDB API and create an app app and an access token
+ -Get data from TMDB now playing mibye list API
 
  #Features
  -Login
