@@ -103,6 +103,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  --build movie card
  -tmdb image cdn
  -usepopular movies hook
+ -gpt search feature
+ -Gpt search page
+ -gpt search bar
+ -Multi-Language Feature In Our App
 
  #Features
  -Login
