@@ -91,6 +91,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  -Add hardcoded values to constant file.
  -Register TMDB API and create an app app and an access token
  -Get data from TMDB now playing mibye list API
+ -Custom Hook for Playing Movies
+ -create a movieslice
+ -planning for maincontainer and secondary container
+ -update store with movies
+ -update store with trailer video data
+ -embedded the ytvideo and make it autoplay  and mute
+ -tailwind classes to main container that looked amazing
+ -Build Secondary Component
+ -Build Movie List
+ --build movie card
+ -tmdb image cdn
+ -usepopular movies hook
 
  #Features
  -Login

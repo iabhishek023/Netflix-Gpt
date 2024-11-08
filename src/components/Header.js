@@ -48,17 +48,17 @@ const Header = () => {
         return ()=> unsubscribe();       //unsubscribe to the store when sign out occurs
     }, [])
     return (
-        <div className="absolute flex w-full px-8 py-2 bg-gradient-to-b from black z-10 justify justify-between">
+        <div className="absolute flex w-full px-4 py-2 bg-gradient-to-b from black z-10 justify justify-between">
             <img
                 className="w-50 h-14 shadow-dark-100"
                 src={LOGO}
                 alt="logo" />
             {user && <div className="flex p-4">
                 <img
-                    className="w-14 h-14"
+                    className="w-12 h-12"
                     src="https://occ-0-4346-3646.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABXYofKdCJceEP7pdxcEZ9wt80GsxEyXIbnG_QM8znksNz3JexvRbDLr0_AcNKr2SJtT-MLr1eCOA-e7xlDHsx4Jmmsi5HL8.png?r=1d4"
                     alt="avatar" />
-                <button onClick={handleSignOut} className="rounded-xl font-bold text-black p-4 m-4 bg-gray-200 border-dark-700">Sign Out </button>
+                <button onClick={handleSignOut} className="rounded-xl font-bold text-black p-2 m-2 bg-gray-200 border-dark-700">Sign Out </button>
             </div>}
         </div>
     )

@@ -26,4 +26,4 @@ const useMovietrailer=(movieId)=>{
     },[])
 }
 
-export default useMovietrailer
+export default useMovietrailer;

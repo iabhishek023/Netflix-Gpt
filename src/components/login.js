@@ -120,7 +120,7 @@ const Login = () => {
 
                 <button
                     onClick={handleButtonClick}
-                    className="p-4 my-6 rounded-xl bg-red-700 w-full"
+                    className="p-2 my-2 rounded-xl bg-red-700 w-full"
                 >
                     {isSignInForm ? "Sign In" : "Sign Up"}
                 </button>
