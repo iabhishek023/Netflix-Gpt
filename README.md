@@ -107,6 +107,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  -Gpt search page
  -gpt search bar
  -Multi-Language Feature In Our App
+ -get open ai api key
+ -get search api call
+ -fetched getMoviesSuggestions from TmDB
+ created getSlice added data
+ -Memoization
+ -env file
+ -Made the Site Responsive
 
  #Features
  -Login
