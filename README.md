@@ -82,7 +82,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  -Firebase Setup
  -Deploying The App to production
  -Create Sign Up User Account
- -Impplemmented sign out
+ -Implemented sign out
  -Update Profile 
  =Movie Description
  -BugFix:sign up user displayName and profile picture update
